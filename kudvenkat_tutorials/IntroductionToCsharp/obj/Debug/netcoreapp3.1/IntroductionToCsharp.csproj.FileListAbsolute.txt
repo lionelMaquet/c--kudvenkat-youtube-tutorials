@@ -1,0 +1,13 @@
+C:\Users\lione\Desktop\Kudvenkat-c#-youtube\kudvenkat_tutorials\IntroductionToCsharp\bin\Debug\netcoreapp3.1\IntroductionToCsharp.exe
+C:\Users\lione\Desktop\Kudvenkat-c#-youtube\kudvenkat_tutorials\IntroductionToCsharp\bin\Debug\netcoreapp3.1\IntroductionToCsharp.deps.json
+C:\Users\lione\Desktop\Kudvenkat-c#-youtube\kudvenkat_tutorials\IntroductionToCsharp\bin\Debug\netcoreapp3.1\IntroductionToCsharp.runtimeconfig.json
+C:\Users\lione\Desktop\Kudvenkat-c#-youtube\kudvenkat_tutorials\IntroductionToCsharp\bin\Debug\netcoreapp3.1\IntroductionToCsharp.runtimeconfig.dev.json
+C:\Users\lione\Desktop\Kudvenkat-c#-youtube\kudvenkat_tutorials\IntroductionToCsharp\bin\Debug\netcoreapp3.1\IntroductionToCsharp.dll
+C:\Users\lione\Desktop\Kudvenkat-c#-youtube\kudvenkat_tutorials\IntroductionToCsharp\bin\Debug\netcoreapp3.1\IntroductionToCsharp.pdb
+C:\Users\lione\Desktop\Kudvenkat-c#-youtube\kudvenkat_tutorials\IntroductionToCsharp\obj\Debug\netcoreapp3.1\IntroductionToCsharp.csprojAssemblyReference.cache
+C:\Users\lione\Desktop\Kudvenkat-c#-youtube\kudvenkat_tutorials\IntroductionToCsharp\obj\Debug\netcoreapp3.1\IntroductionToCsharp.AssemblyInfoInputs.cache
+C:\Users\lione\Desktop\Kudvenkat-c#-youtube\kudvenkat_tutorials\IntroductionToCsharp\obj\Debug\netcoreapp3.1\IntroductionToCsharp.AssemblyInfo.cs
+C:\Users\lione\Desktop\Kudvenkat-c#-youtube\kudvenkat_tutorials\IntroductionToCsharp\obj\Debug\netcoreapp3.1\IntroductionToCsharp.csproj.CoreCompileInputs.cache
+C:\Users\lione\Desktop\Kudvenkat-c#-youtube\kudvenkat_tutorials\IntroductionToCsharp\obj\Debug\netcoreapp3.1\IntroductionToCsharp.dll
+C:\Users\lione\Desktop\Kudvenkat-c#-youtube\kudvenkat_tutorials\IntroductionToCsharp\obj\Debug\netcoreapp3.1\IntroductionToCsharp.pdb
+C:\Users\lione\Desktop\Kudvenkat-c#-youtube\kudvenkat_tutorials\IntroductionToCsharp\obj\Debug\netcoreapp3.1\IntroductionToCsharp.genruntimeconfig.cache
