@@ -28,6 +28,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Part_5_Common_operators", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part_5_Common_operators_project", "Part_5_Common_operators_project\Part_5_Common_operators_project.csproj", "{ECC7095C-33A4-43CE-B7D5-5AA3744F00B8}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Part_6_Nullable_types", "Part_6_Nullable_types", "{2C0093E1-E972-4CAD-939A-437B60511640}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part_6_Nullable_types_project", "Part_6_Nullable_types_project\Part_6_Nullable_types_project.csproj", "{731D648E-4DB6-4C1C-AA60-0930B4C3CC0A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -54,6 +58,10 @@ Global
 		{ECC7095C-33A4-43CE-B7D5-5AA3744F00B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ECC7095C-33A4-43CE-B7D5-5AA3744F00B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ECC7095C-33A4-43CE-B7D5-5AA3744F00B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{731D648E-4DB6-4C1C-AA60-0930B4C3CC0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{731D648E-4DB6-4C1C-AA60-0930B4C3CC0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{731D648E-4DB6-4C1C-AA60-0930B4C3CC0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{731D648E-4DB6-4C1C-AA60-0930B4C3CC0A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -64,6 +72,7 @@ Global
 		{4E949C9A-2C0D-40B1-AE77-AE263958BC82} = {01BC044E-8143-47D7-9B6E-26652F99B1F8}
 		{69F4583F-67A6-4D0D-A41A-DECD55AB7398} = {F8F25091-74D5-46D2-BDC7-AE6E618A18CC}
 		{ECC7095C-33A4-43CE-B7D5-5AA3744F00B8} = {AFF41164-1FBD-4C54-AEB5-8FE75FDC4324}
+		{731D648E-4DB6-4C1C-AA60-0930B4C3CC0A} = {2C0093E1-E972-4CAD-939A-437B60511640}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {39D71AA3-C8F9-4233-B671-F8022288A10D}
