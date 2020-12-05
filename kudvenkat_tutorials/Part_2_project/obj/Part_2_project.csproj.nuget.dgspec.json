@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lione\\Desktop\\MOOC\\Kudvenkat-c#-youtube\\kudvenkat_tutorials\\IntroductionToCsharp\\IntroductionToCsharp.csproj": {}
+    "C:\\Users\\lione\\Desktop\\MOOC\\Kudvenkat-c#-youtube\\kudvenkat_tutorials\\Part_2_project\\Part_2_project.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lione\\Desktop\\MOOC\\Kudvenkat-c#-youtube\\kudvenkat_tutorials\\IntroductionToCsharp\\IntroductionToCsharp.csproj": {
+    "C:\\Users\\lione\\Desktop\\MOOC\\Kudvenkat-c#-youtube\\kudvenkat_tutorials\\Part_2_project\\Part_2_project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lione\\Desktop\\MOOC\\Kudvenkat-c#-youtube\\kudvenkat_tutorials\\IntroductionToCsharp\\IntroductionToCsharp.csproj",
-        "projectName": "IntroductionToCsharp",
-        "projectPath": "C:\\Users\\lione\\Desktop\\MOOC\\Kudvenkat-c#-youtube\\kudvenkat_tutorials\\IntroductionToCsharp\\IntroductionToCsharp.csproj",
+        "projectUniqueName": "C:\\Users\\lione\\Desktop\\MOOC\\Kudvenkat-c#-youtube\\kudvenkat_tutorials\\Part_2_project\\Part_2_project.csproj",
+        "projectName": "Part_2_project",
+        "projectPath": "C:\\Users\\lione\\Desktop\\MOOC\\Kudvenkat-c#-youtube\\kudvenkat_tutorials\\Part_2_project\\Part_2_project.csproj",
         "packagesPath": "C:\\Users\\lione\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lione\\Desktop\\MOOC\\Kudvenkat-c#-youtube\\kudvenkat_tutorials\\IntroductionToCsharp\\obj\\",
+        "outputPath": "C:\\Users\\lione\\Desktop\\MOOC\\Kudvenkat-c#-youtube\\kudvenkat_tutorials\\Part_2_project\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lione\\AppData\\Roaming\\NuGet\\NuGet.Config",
