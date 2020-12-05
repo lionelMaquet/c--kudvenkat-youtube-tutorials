@@ -1,0 +1,13 @@
+C:\Users\lione\Desktop\MOOC\Kudvenkat-c#-youtube\kudvenkat_tutorials\Part_3_project\bin\Debug\netcoreapp3.1\Part_3_project.exe
+C:\Users\lione\Desktop\MOOC\Kudvenkat-c#-youtube\kudvenkat_tutorials\Part_3_project\bin\Debug\netcoreapp3.1\Part_3_project.deps.json
+C:\Users\lione\Desktop\MOOC\Kudvenkat-c#-youtube\kudvenkat_tutorials\Part_3_project\bin\Debug\netcoreapp3.1\Part_3_project.runtimeconfig.json
+C:\Users\lione\Desktop\MOOC\Kudvenkat-c#-youtube\kudvenkat_tutorials\Part_3_project\bin\Debug\netcoreapp3.1\Part_3_project.runtimeconfig.dev.json
+C:\Users\lione\Desktop\MOOC\Kudvenkat-c#-youtube\kudvenkat_tutorials\Part_3_project\bin\Debug\netcoreapp3.1\Part_3_project.dll
+C:\Users\lione\Desktop\MOOC\Kudvenkat-c#-youtube\kudvenkat_tutorials\Part_3_project\bin\Debug\netcoreapp3.1\Part_3_project.pdb
+C:\Users\lione\Desktop\MOOC\Kudvenkat-c#-youtube\kudvenkat_tutorials\Part_3_project\obj\Debug\netcoreapp3.1\Part_3_project.csprojAssemblyReference.cache
+C:\Users\lione\Desktop\MOOC\Kudvenkat-c#-youtube\kudvenkat_tutorials\Part_3_project\obj\Debug\netcoreapp3.1\Part_3_project.AssemblyInfoInputs.cache
+C:\Users\lione\Desktop\MOOC\Kudvenkat-c#-youtube\kudvenkat_tutorials\Part_3_project\obj\Debug\netcoreapp3.1\Part_3_project.AssemblyInfo.cs
+C:\Users\lione\Desktop\MOOC\Kudvenkat-c#-youtube\kudvenkat_tutorials\Part_3_project\obj\Debug\netcoreapp3.1\Part_3_project.csproj.CoreCompileInputs.cache
+C:\Users\lione\Desktop\MOOC\Kudvenkat-c#-youtube\kudvenkat_tutorials\Part_3_project\obj\Debug\netcoreapp3.1\Part_3_project.dll
+C:\Users\lione\Desktop\MOOC\Kudvenkat-c#-youtube\kudvenkat_tutorials\Part_3_project\obj\Debug\netcoreapp3.1\Part_3_project.pdb
+C:\Users\lione\Desktop\MOOC\Kudvenkat-c#-youtube\kudvenkat_tutorials\Part_3_project\obj\Debug\netcoreapp3.1\Part_3_project.genruntimeconfig.cache

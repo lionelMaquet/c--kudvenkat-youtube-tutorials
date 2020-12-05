@@ -1,3 +1,4 @@
 RACCOURCIS
 
-Pour commenter une ligne de code : CTRL + K & C
+	- Pour commenter une ligne de code : CTRL + K & C
+	- Pour refaire la mise en forme : CTRL + K & D
