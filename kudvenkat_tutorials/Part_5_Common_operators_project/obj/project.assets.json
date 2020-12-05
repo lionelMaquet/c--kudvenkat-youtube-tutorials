@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lione\\Desktop\\MOOC\\Kudvenkat-c#-youtube\\kudvenkat_tutorials\\Part_2_project\\Part_2_Reading_and_writing_to_a_console_project.csproj",
-      "projectName": "Part_2_Reading_and_writing_to_a_console_project",
-      "projectPath": "C:\\Users\\lione\\Desktop\\MOOC\\Kudvenkat-c#-youtube\\kudvenkat_tutorials\\Part_2_project\\Part_2_Reading_and_writing_to_a_console_project.csproj",
+      "projectUniqueName": "C:\\Users\\lione\\Desktop\\MOOC\\Kudvenkat-c#-youtube\\kudvenkat_tutorials\\Part_5_Common_operators_project\\Part_5_Common_operators_project.csproj",
+      "projectName": "Part_5_Common_operators_project",
+      "projectPath": "C:\\Users\\lione\\Desktop\\MOOC\\Kudvenkat-c#-youtube\\kudvenkat_tutorials\\Part_5_Common_operators_project\\Part_5_Common_operators_project.csproj",
       "packagesPath": "C:\\Users\\lione\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lione\\Desktop\\MOOC\\Kudvenkat-c#-youtube\\kudvenkat_tutorials\\Part_2_project\\obj\\",
+      "outputPath": "C:\\Users\\lione\\Desktop\\MOOC\\Kudvenkat-c#-youtube\\kudvenkat_tutorials\\Part_5_Common_operators_project\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lione\\AppData\\Roaming\\NuGet\\NuGet.Config",
