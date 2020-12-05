@@ -1,6 +1,5 @@
 ﻿using System;
 
-
 class Program
 {
     static void Main(string[] args)
@@ -54,19 +53,19 @@ class Program
 
         /***      FLOATING TYPES     ***/
 
-        float myFloat = 1.22241111111f; // important de mettre le f en suffixe
+        float myFloat = 1.22241111111f; // You must put f in suffixe
             // a float has a 7 decimal digits precision. It is 32bits
-        double myDouble = 123.1213131; // un Double fait le double de la taille d'un float
+        double myDouble = 123.1213131; // un Double is twice the size of a float
             // a double has a 15 decimal digits precision. It is 64bits
-        decimal myDecimal = 300.5m; // important de mettre le m en suffixe 
-            // 128 bits mais TRES lent, utilisé pour les calculs d'argent.
+        decimal myDecimal = 300.5m; // You must put m in suffixe
+            // 128 bits but very slow. Used for money and currency calculations.
 
 
         // EXEMPLES
         float testFloat = 1f / 16514981984159845f;
         double testDouble = 1.0 / 16514981984159845.0;
-        Console.WriteLine("Precision avec un float : {0}", testFloat);
-        Console.WriteLine("Precision avec un double: {0}", testDouble);
+        Console.WriteLine("Precision with a float : {0}", testFloat);
+        Console.WriteLine("Precision with a double: {0}", testDouble);
 
         // Double is for speed, decimal for precision 
         // Decimal takes much more time to compute, because it uses base-10 math.
