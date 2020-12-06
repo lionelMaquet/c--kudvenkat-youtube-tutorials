@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lione\\Desktop\\MOOC\\Kudvenkat-c#-youtube\\kudvenkat_tutorials\\IntroductionToCsharp\\Part_001_Introduction.csproj",
-      "projectName": "Part_001_Introduction",
-      "projectPath": "C:\\Users\\lione\\Desktop\\MOOC\\Kudvenkat-c#-youtube\\kudvenkat_tutorials\\IntroductionToCsharp\\Part_001_Introduction.csproj",
+      "projectUniqueName": "C:\\Users\\lione\\Desktop\\MOOC\\Kudvenkat-c#-youtube\\kudvenkat_tutorials\\IntroductionToCsharp\\Part_001_Introduction_project.csproj",
+      "projectName": "Part_001_Introduction_project",
+      "projectPath": "C:\\Users\\lione\\Desktop\\MOOC\\Kudvenkat-c#-youtube\\kudvenkat_tutorials\\IntroductionToCsharp\\Part_001_Introduction_project.csproj",
       "packagesPath": "C:\\Users\\lione\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\lione\\Desktop\\MOOC\\Kudvenkat-c#-youtube\\kudvenkat_tutorials\\IntroductionToCsharp\\obj\\",
       "projectStyle": "PackageReference",
