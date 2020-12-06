@@ -9,7 +9,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IntroductionToCsharp", "Int
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Part_2_Reading_and_writing_to_a_console", "Part_2_Reading_and_writing_to_a_console", "{770B7DDF-ED44-4841-8E80-EEEE63EF0C60}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part_2_Reading_and_writing_to_a_console_project", "Part_2_project\Part_2_Reading_and_writing_to_a_console_project.csproj", "{B7064189-8BF1-4CB7-855A-863A041D7651}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Part_2_Reading_and_writing_to_a_console_project", "Part_2_project\Part_2_Reading_and_writing_to_a_console_project.csproj", "{B7064189-8BF1-4CB7-855A-863A041D7651}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{FD851CBB-C4DA-4DB3-BD06-DF7C159C57AC}"
 	ProjectSection(SolutionItems) = preProject
@@ -18,19 +18,23 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Part_3_Built_in_types", "Part_3_Built_in_types", "{01BC044E-8143-47D7-9B6E-26652F99B1F8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part_3__Built_in_types_project", "Part_3_project\Part_3__Built_in_types_project.csproj", "{4E949C9A-2C0D-40B1-AE77-AE263958BC82}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Part_3__Built_in_types_project", "Part_3_project\Part_3__Built_in_types_project.csproj", "{4E949C9A-2C0D-40B1-AE77-AE263958BC82}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Part_4_String_type", "Part_4_String_type", "{F8F25091-74D5-46D2-BDC7-AE6E618A18CC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part_4_String_type_project", "Part_4_Project\Part_4_String_type_project.csproj", "{69F4583F-67A6-4D0D-A41A-DECD55AB7398}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Part_4_String_type_project", "Part_4_Project\Part_4_String_type_project.csproj", "{69F4583F-67A6-4D0D-A41A-DECD55AB7398}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Part_5_Common_operators", "Part_5_Common_operators", "{AFF41164-1FBD-4C54-AEB5-8FE75FDC4324}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part_5_Common_operators_project", "Part_5_Common_operators_project\Part_5_Common_operators_project.csproj", "{ECC7095C-33A4-43CE-B7D5-5AA3744F00B8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Part_5_Common_operators_project", "Part_5_Common_operators_project\Part_5_Common_operators_project.csproj", "{ECC7095C-33A4-43CE-B7D5-5AA3744F00B8}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Part_6_Nullable_types", "Part_6_Nullable_types", "{2C0093E1-E972-4CAD-939A-437B60511640}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part_6_Nullable_types_project", "Part_6_Nullable_types_project\Part_6_Nullable_types_project.csproj", "{731D648E-4DB6-4C1C-AA60-0930B4C3CC0A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Part_6_Nullable_types_project", "Part_6_Nullable_types_project\Part_6_Nullable_types_project.csproj", "{731D648E-4DB6-4C1C-AA60-0930B4C3CC0A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Part_7_Datatypes_conversion", "Part_7_Datatypes_conversion", "{05E2F03F-082C-4DC7-83DC-373D42023E6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part_7_Datatypes_conversion_project", "Part_7_Datatypes_conversion_project\Part_7_Datatypes_conversion_project.csproj", "{080FAA5D-A4A7-47A2-9030-0FA91396BA3E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -62,6 +66,10 @@ Global
 		{731D648E-4DB6-4C1C-AA60-0930B4C3CC0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{731D648E-4DB6-4C1C-AA60-0930B4C3CC0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{731D648E-4DB6-4C1C-AA60-0930B4C3CC0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{080FAA5D-A4A7-47A2-9030-0FA91396BA3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{080FAA5D-A4A7-47A2-9030-0FA91396BA3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{080FAA5D-A4A7-47A2-9030-0FA91396BA3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{080FAA5D-A4A7-47A2-9030-0FA91396BA3E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -73,6 +81,7 @@ Global
 		{69F4583F-67A6-4D0D-A41A-DECD55AB7398} = {F8F25091-74D5-46D2-BDC7-AE6E618A18CC}
 		{ECC7095C-33A4-43CE-B7D5-5AA3744F00B8} = {AFF41164-1FBD-4C54-AEB5-8FE75FDC4324}
 		{731D648E-4DB6-4C1C-AA60-0930B4C3CC0A} = {2C0093E1-E972-4CAD-939A-437B60511640}
+		{080FAA5D-A4A7-47A2-9030-0FA91396BA3E} = {05E2F03F-082C-4DC7-83DC-373D42023E6F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {39D71AA3-C8F9-4233-B671-F8022288A10D}
