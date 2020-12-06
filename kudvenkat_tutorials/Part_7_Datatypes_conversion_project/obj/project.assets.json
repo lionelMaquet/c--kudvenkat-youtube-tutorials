@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lione\\Desktop\\MOOC\\Kudvenkat-c#-youtube\\kudvenkat_tutorials\\Part_7_Datatypes_conversion_project\\Part_7_Datatypes_conversion_project.csproj",
-      "projectName": "Part_7_Datatypes_conversion_project",
-      "projectPath": "C:\\Users\\lione\\Desktop\\MOOC\\Kudvenkat-c#-youtube\\kudvenkat_tutorials\\Part_7_Datatypes_conversion_project\\Part_7_Datatypes_conversion_project.csproj",
+      "projectUniqueName": "C:\\Users\\lione\\Desktop\\MOOC\\Kudvenkat-c#-youtube\\kudvenkat_tutorials\\Part_7_Datatypes_conversion_project\\Part_007_Datatypes_conversion_project.csproj",
+      "projectName": "Part_007_Datatypes_conversion_project",
+      "projectPath": "C:\\Users\\lione\\Desktop\\MOOC\\Kudvenkat-c#-youtube\\kudvenkat_tutorials\\Part_7_Datatypes_conversion_project\\Part_007_Datatypes_conversion_project.csproj",
       "packagesPath": "C:\\Users\\lione\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\lione\\Desktop\\MOOC\\Kudvenkat-c#-youtube\\kudvenkat_tutorials\\Part_7_Datatypes_conversion_project\\obj\\",
       "projectStyle": "PackageReference",

@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lione\\Desktop\\MOOC\\Kudvenkat-c#-youtube\\kudvenkat_tutorials\\Part_9_Comments_project\\Part_9_Comments_project.csproj",
-      "projectName": "Part_9_Comments_project",
-      "projectPath": "C:\\Users\\lione\\Desktop\\MOOC\\Kudvenkat-c#-youtube\\kudvenkat_tutorials\\Part_9_Comments_project\\Part_9_Comments_project.csproj",
+      "projectUniqueName": "C:\\Users\\lione\\Desktop\\MOOC\\Kudvenkat-c#-youtube\\kudvenkat_tutorials\\Part_9_Comments_project\\Part_009_Comments_project.csproj",
+      "projectName": "Part_009_Comments_project",
+      "projectPath": "C:\\Users\\lione\\Desktop\\MOOC\\Kudvenkat-c#-youtube\\kudvenkat_tutorials\\Part_9_Comments_project\\Part_009_Comments_project.csproj",
       "packagesPath": "C:\\Users\\lione\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\lione\\Desktop\\MOOC\\Kudvenkat-c#-youtube\\kudvenkat_tutorials\\Part_9_Comments_project\\obj\\",
       "projectStyle": "PackageReference",

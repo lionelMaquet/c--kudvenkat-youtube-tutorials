@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lione\\Desktop\\MOOC\\Kudvenkat-c#-youtube\\kudvenkat_tutorials\\Part_8_Arrays_project\\Part_8_Arrays_project.csproj",
-      "projectName": "Part_8_Arrays_project",
-      "projectPath": "C:\\Users\\lione\\Desktop\\MOOC\\Kudvenkat-c#-youtube\\kudvenkat_tutorials\\Part_8_Arrays_project\\Part_8_Arrays_project.csproj",
+      "projectUniqueName": "C:\\Users\\lione\\Desktop\\MOOC\\Kudvenkat-c#-youtube\\kudvenkat_tutorials\\Part_8_Arrays_project\\Part_008_Arrays_project.csproj",
+      "projectName": "Part_008_Arrays_project",
+      "projectPath": "C:\\Users\\lione\\Desktop\\MOOC\\Kudvenkat-c#-youtube\\kudvenkat_tutorials\\Part_8_Arrays_project\\Part_008_Arrays_project.csproj",
       "packagesPath": "C:\\Users\\lione\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\lione\\Desktop\\MOOC\\Kudvenkat-c#-youtube\\kudvenkat_tutorials\\Part_8_Arrays_project\\obj\\",
       "projectStyle": "PackageReference",

@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lione\\Desktop\\MOOC\\Kudvenkat-c#-youtube\\kudvenkat_tutorials\\Part_3_project\\Part_3__Built_in_types_project.csproj",
-      "projectName": "Part_3__Built_in_types_project",
-      "projectPath": "C:\\Users\\lione\\Desktop\\MOOC\\Kudvenkat-c#-youtube\\kudvenkat_tutorials\\Part_3_project\\Part_3__Built_in_types_project.csproj",
+      "projectUniqueName": "C:\\Users\\lione\\Desktop\\MOOC\\Kudvenkat-c#-youtube\\kudvenkat_tutorials\\Part_3_project\\Part_003__Built_in_types_project.csproj",
+      "projectName": "Part_003__Built_in_types_project",
+      "projectPath": "C:\\Users\\lione\\Desktop\\MOOC\\Kudvenkat-c#-youtube\\kudvenkat_tutorials\\Part_3_project\\Part_003__Built_in_types_project.csproj",
       "packagesPath": "C:\\Users\\lione\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\lione\\Desktop\\MOOC\\Kudvenkat-c#-youtube\\kudvenkat_tutorials\\Part_3_project\\obj\\",
       "projectStyle": "PackageReference",
