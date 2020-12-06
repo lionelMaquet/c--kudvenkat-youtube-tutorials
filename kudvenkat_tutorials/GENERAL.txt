@@ -1,5 +1,6 @@
 SHORTCUTS
 
-	- To comment out a line of code : CTRL + K & C
+	- To Comment a line of code : CTRL + K & C
+	- To Ucomment a line of code : CTRL + K & U
 	- To redo the indentation : CTRL + K & D
 	- Pour run the project : ctrl + (fn +) F5
