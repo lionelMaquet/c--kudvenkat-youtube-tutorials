@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30523.141
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Part_001_Introduction", "Part_001_Introduction", "{0A7C13FA-8FFA-4093-89F7-21759FECB074}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Part_001_Introduction", "IntroductionToCsharp\Part_001_Introduction.csproj", "{BACF37D4-70D5-4CD6-859B-4405C72DC57E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Part_001_Introduction_project", "IntroductionToCsharp\Part_001_Introduction_project.csproj", "{BACF37D4-70D5-4CD6-859B-4405C72DC57E}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Part_002_Reading_and_writing_to_a_console", "Part_002_Reading_and_writing_to_a_console", "{770B7DDF-ED44-4841-8E80-EEEE63EF0C60}"
 EndProject
@@ -34,19 +34,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Part_006_Nullable_types_pro
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Part_007_Datatypes_conversion", "Part_007_Datatypes_conversion", "{05E2F03F-082C-4DC7-83DC-373D42023E6F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part_007_Datatypes_conversion_project", "Part_7_Datatypes_conversion_project\Part_007_Datatypes_conversion_project.csproj", "{080FAA5D-A4A7-47A2-9030-0FA91396BA3E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Part_007_Datatypes_conversion_project", "Part_7_Datatypes_conversion_project\Part_007_Datatypes_conversion_project.csproj", "{080FAA5D-A4A7-47A2-9030-0FA91396BA3E}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Part_008_Arrays", "Part_008_Arrays", "{A2D79840-6E44-4376-9D9F-86D9C3283D44}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part_008_Arrays_project", "Part_8_Arrays_project\Part_008_Arrays_project.csproj", "{CD6A7083-F158-4C88-8480-76EDE6D45236}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Part_008_Arrays_project", "Part_8_Arrays_project\Part_008_Arrays_project.csproj", "{CD6A7083-F158-4C88-8480-76EDE6D45236}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Part_009_Comments", "Part_009_Comments", "{A898B9E6-ECD2-4476-8CFC-755064272507}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part_009_Comments_project", "Part_9_Comments_project\Part_009_Comments_project.csproj", "{E99F9B7A-EF81-4F94-B048-5ABA85075BB1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Part_009_Comments_project", "Part_9_Comments_project\Part_009_Comments_project.csproj", "{E99F9B7A-EF81-4F94-B048-5ABA85075BB1}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Part_010_If_statements", "Part_010_If_statements", "{854F256D-8F8A-4E41-A5C1-F764393235B3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part_010_If_statements_project", "Part_10_If_statements_project\Part_010_If_statements_project.csproj", "{E7FEE73F-10F6-42B2-8D7D-89372FDE853A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Part_010_If_statements_project", "Part_10_If_statements_project\Part_010_If_statements_project.csproj", "{E7FEE73F-10F6-42B2-8D7D-89372FDE853A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Part_011_Switch_statement", "Part_011_Switch_statement", "{5F02FC6E-6354-446C-9749-E209A3B01C3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part_011_Switch_statement_project", "Part_011_Switch_statement_project\Part_011_Switch_statement_project.csproj", "{E10752F1-3358-443E-95D7-3CB245729746}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -94,6 +98,10 @@ Global
 		{E7FEE73F-10F6-42B2-8D7D-89372FDE853A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E7FEE73F-10F6-42B2-8D7D-89372FDE853A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E7FEE73F-10F6-42B2-8D7D-89372FDE853A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E10752F1-3358-443E-95D7-3CB245729746}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E10752F1-3358-443E-95D7-3CB245729746}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E10752F1-3358-443E-95D7-3CB245729746}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E10752F1-3358-443E-95D7-3CB245729746}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -109,6 +117,7 @@ Global
 		{CD6A7083-F158-4C88-8480-76EDE6D45236} = {A2D79840-6E44-4376-9D9F-86D9C3283D44}
 		{E99F9B7A-EF81-4F94-B048-5ABA85075BB1} = {A898B9E6-ECD2-4476-8CFC-755064272507}
 		{E7FEE73F-10F6-42B2-8D7D-89372FDE853A} = {854F256D-8F8A-4E41-A5C1-F764393235B3}
+		{E10752F1-3358-443E-95D7-3CB245729746} = {5F02FC6E-6354-446C-9749-E209A3B01C3D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {39D71AA3-C8F9-4233-B671-F8022288A10D}
