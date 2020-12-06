@@ -10,3 +10,4 @@ C:\Users\lione\Desktop\MOOC\Kudvenkat-c#-youtube\kudvenkat_tutorials\Part_7_Data
 C:\Users\lione\Desktop\MOOC\Kudvenkat-c#-youtube\kudvenkat_tutorials\Part_7_Datatypes_conversion_project\obj\Debug\netcoreapp3.1\Part_7_Datatypes_conversion_project.dll
 C:\Users\lione\Desktop\MOOC\Kudvenkat-c#-youtube\kudvenkat_tutorials\Part_7_Datatypes_conversion_project\obj\Debug\netcoreapp3.1\Part_7_Datatypes_conversion_project.pdb
 C:\Users\lione\Desktop\MOOC\Kudvenkat-c#-youtube\kudvenkat_tutorials\Part_7_Datatypes_conversion_project\obj\Debug\netcoreapp3.1\Part_7_Datatypes_conversion_project.genruntimeconfig.cache
+C:\Users\lione\Desktop\MOOC\Kudvenkat-c#-youtube\kudvenkat_tutorials\Part_7_Datatypes_conversion_project\obj\Debug\netcoreapp3.1\Part_7_Datatypes_conversion_project.csprojAssemblyReference.cache
